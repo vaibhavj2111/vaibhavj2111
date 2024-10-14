@@ -3,7 +3,7 @@
 ## Hi there 👋
 ### I am Vaibhav Jangid, Pre Final yearite at the Indian Institute of Technology, Guwahati. 
 
-- 🌱 I’m currently learning Next.Js and Contanerization
+- 🌱 I’m currently learning Next.Js and Containerization
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve the Rubik's Cube in under 15 seconds
 
